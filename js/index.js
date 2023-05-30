@@ -6,13 +6,6 @@ import { UserSetPositionNav } from "./modules/UserSetPositionNav.js";
 UserSetPositionNav()
 
 
-
-
-
-
-
-
-
 const setToggleMenu = () => {
   const lastItemList = document.querySelector(".setting-dropdown-item:last-child");
   let flag = false;
